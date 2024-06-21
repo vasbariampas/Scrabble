@@ -1,0 +1,14 @@
+C:\Development\Scrabble\Scrabble\bin\Debug\net8.0\Scrabble.exe
+C:\Development\Scrabble\Scrabble\bin\Debug\net8.0\Scrabble.deps.json
+C:\Development\Scrabble\Scrabble\bin\Debug\net8.0\Scrabble.runtimeconfig.json
+C:\Development\Scrabble\Scrabble\bin\Debug\net8.0\Scrabble.dll
+C:\Development\Scrabble\Scrabble\bin\Debug\net8.0\Scrabble.pdb
+C:\Development\Scrabble\Scrabble\obj\Debug\net8.0\Scrabble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Scrabble\Scrabble\obj\Debug\net8.0\Scrabble.AssemblyInfoInputs.cache
+C:\Development\Scrabble\Scrabble\obj\Debug\net8.0\Scrabble.AssemblyInfo.cs
+C:\Development\Scrabble\Scrabble\obj\Debug\net8.0\Scrabble.csproj.CoreCompileInputs.cache
+C:\Development\Scrabble\Scrabble\obj\Debug\net8.0\Scrabble.dll
+C:\Development\Scrabble\Scrabble\obj\Debug\net8.0\refint\Scrabble.dll
+C:\Development\Scrabble\Scrabble\obj\Debug\net8.0\Scrabble.pdb
+C:\Development\Scrabble\Scrabble\obj\Debug\net8.0\Scrabble.genruntimeconfig.cache
+C:\Development\Scrabble\Scrabble\obj\Debug\net8.0\ref\Scrabble.dll
