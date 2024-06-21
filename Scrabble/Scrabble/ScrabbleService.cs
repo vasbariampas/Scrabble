@@ -18,7 +18,7 @@
             BagOfLetters = [];
             AllTwoPossibleWords = File.ReadAllLines("C:\\Development\\Scrabble\\Scrabble\\Resources\\AllTwoPossibleWords.csv").ToList();
 
-            var scrabbleLetters = File.ReadAllLines("C:\\Development\\Scrabble\\Scrabble\\Resources\\ScrabbleLetters.csv").Skip(1).SkipLast(1);
+            var scrabbleLetters = File.ReadAllLines("C:\\Development\\Scrabble\\Scrabble\\Resources\\ScrabbleLetters.csv").Skip(1);
             var letters = new List<string>();
             foreach (var row in scrabbleLetters)
             {
